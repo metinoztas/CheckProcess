@@ -2,7 +2,6 @@
 
 **AI Process Manager**, bilgisayarınızda çalışan işlemleri (process) listeleyen, yapay zeka (Google Gemini) desteğiyle güvenlik analizi yapan ve şüpheli yazılımları tespit etmenize yardımcı olan modern bir görev yöneticisidir.
 
-![AI Process Manager Screenshot](https://via.placeholder.com/800x450?text=AI+Process+Manager+Interface)
 
 ## 🚀 Özellikler
 
