@@ -1,11 +1,9 @@
 import psutil
-import datetime
 import hashlib
 import os
 import win32ui
 import win32gui
 import win32con
-import win32api
 import subprocess
 from PIL import Image
 
